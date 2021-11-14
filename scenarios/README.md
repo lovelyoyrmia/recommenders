@@ -10,6 +10,7 @@ The list of scenarios are:
 * [News and document](news)
 * [Retail](retail)
 * [Travel](travel)
+* [Movies](movie)
 
 
 
